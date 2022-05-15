@@ -131,9 +131,7 @@ h2 {
     font-weight: bold;
 }
 
-.introduction-section,
-.location-section,
-.questions-section {
+section {
     max-width: 38em;
     margin-left: auto;
     margin-right: auto;
